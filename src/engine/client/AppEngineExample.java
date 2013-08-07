@@ -133,7 +133,7 @@ public class AppEngineExample implements EntryPoint {
 							}
 
 							public void onSuccess(String result) {
-								dialogBox.setText("Remote Procedure Call");
+								dialogBox.setText("Remote Procedure Callss");
 								serverResponseLabel
 										.removeStyleName("serverResponseLabelError");
 								serverResponseLabel.setHTML(result);
