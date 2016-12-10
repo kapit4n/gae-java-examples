@@ -1,4 +1,2 @@
-gae-java-examples
+Gae Example
 =================
-
-This is cuple of examples using with 
